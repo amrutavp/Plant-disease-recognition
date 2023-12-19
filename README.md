@@ -1,0 +1,1 @@
+mplemented image processing for plant disease recognition, using HSV for red region detection, grayscale for intensity analysis, and dilation for feature enhancement. Added bounding boxes for clear visualization, facilitating efficient disease impact assessment on plant leaves.
